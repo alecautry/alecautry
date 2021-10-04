@@ -1,0 +1,5 @@
+- Hi, I’m @alecautry
+- I’m interested in embedded systems devlopment and backend app design.
+- I’m currently learning C and Assembly for embdedd system use on the MSP42 device as well as learning python on my own time
+- I’m looking to collaborate on my App idea for an online 42 game.
+- How to reach me alecautry20181@gmail.com
